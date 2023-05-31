@@ -6,3 +6,5 @@ This project id done using Eclipse
 2.For external Jar details check .classpath file
  i)postgresql jar
  ii)bcrypt for encrypting passwords
+ 
+ 3.update DB.java file with your database port number,username and passwords
